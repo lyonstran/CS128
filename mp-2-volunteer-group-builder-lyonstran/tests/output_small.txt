@@ -1,0 +1,35 @@
+Avg. EXP -> Build: 5.2, Stamina: 5. Number of returning members: 4
+Audrie
+Wallis
+Clifford
+Kelwin
+Graehme
+
+Avg. EXP -> Build: 5.2, Stamina: 7.6. Number of returning members: 2
+Jarvis
+Michal
+Paulette
+Moishe
+Pascale
+
+Avg. EXP -> Build: 5.4, Stamina: 7.4. Number of returning members: 2
+Leroy
+Barthel
+Garret
+Goldie
+Jerrilee
+
+Avg. EXP -> Build: 5.4, Stamina: 6.6. Number of returning members: 2
+Olympe
+Jaquelyn
+Marge
+Lana
+Michail
+
+Avg. EXP -> Build: 5.2, Stamina: 6. Number of returning members: 2
+Marga
+Kathryn
+Arlie
+Sharla
+Spud
+
